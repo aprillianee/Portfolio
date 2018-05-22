@@ -131,6 +131,9 @@ footer p {
     max-width: 350px; 
     border-radius: 50%;
 }
+#github {
+    font-size: 50px;
+}
 @media only screen and (max-width: 730px) {
     .middle {
     text-transform: uppercase;
